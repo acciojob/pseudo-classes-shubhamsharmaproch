@@ -5,7 +5,7 @@
 body {
 	background-color:rgb(135, 206, 235);
 }
-.texta {
+#texta {
 	color:red;
 }
 li:nth-child(even) {
@@ -20,12 +20,12 @@ li:nth-of-type(3) {
 	width:60%
 }
 li:first-child {
-	background:white;
+	background:rgb(255, 255, 255);
 	padding:5px;
 	width:60%
 }
 li:last-child {
-	background:white;
+	background:rgb(255, 255, 255);
 	padding:5px;
 	width:60%
 }
