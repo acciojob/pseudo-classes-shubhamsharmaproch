@@ -2,9 +2,8 @@
 	color:white;
 	background:black;
 }
-body {
-	background-color:rgb(135, 206, 235);
-}
+:root {background-color:rgb(135, 206, 235);}
+
 #texta {
 	color:red;
 }
