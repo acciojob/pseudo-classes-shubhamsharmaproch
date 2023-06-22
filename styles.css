@@ -1,15 +1,14 @@
+:root {background-color:rgb(135, 206, 235);}
 .first {
 	color:white;
 	background:black;
 }
-:root {background-color:rgb(135, 206, 235);}
-
-#texta {
+p:last-child {
 	color:red;
 }
 li:nth-child(even) {
 	
-	background:#70808F;
+	background-color:#6F8090;
 	padding:5px;
 	width:60%
 } 
